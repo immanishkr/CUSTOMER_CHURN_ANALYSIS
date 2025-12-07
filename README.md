@@ -73,7 +73,7 @@ Logistic Regression
 
 Random Forest Classifier (selected model)
 
-Gradient Boosting
+
 
 Final Model:
 
