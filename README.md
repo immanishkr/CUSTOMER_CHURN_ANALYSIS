@@ -93,12 +93,7 @@ Backend integration with the trained ML model
 
 Real-time churn prediction with probability scores
 
-Run the App:
-python app.py
 
-
-Then open the app in your browser:
-http://127.0.0.1:5000/
 
 Prediction Output:
 
